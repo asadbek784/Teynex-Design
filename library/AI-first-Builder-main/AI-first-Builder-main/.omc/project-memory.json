@@ -1,0 +1,211 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1784792806398,
+  "projectRoot": "/Users/sampathalakanti/Documents/GitHub/AI-first-Builder",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "jsconfig.json"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "next",
+        "version": "15.1.11",
+        "category": "fullstack"
+      },
+      {
+        "name": "react",
+        "version": "18.0.0",
+        "category": "frontend"
+      },
+      {
+        "name": "react-dom",
+        "version": "18.0.0",
+        "category": "frontend"
+      }
+    ],
+    "packageManager": "npm",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "npm run build",
+    "testCommand": null,
+    "lintCommand": "npm run lint",
+    "devCommand": "npm run dev",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    }
+  },
+  "conventions": {
+    "namingStyle": "camelCase",
+    "importStyle": "ES modules",
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "app",
+      "components",
+      "lib",
+      "public"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "app": {
+      "path": "app",
+      "purpose": "Application code",
+      "fileCount": 6,
+      "lastAccessed": 1784792806284,
+      "keyFiles": [
+        "ConvexClientProvider.jsx",
+        "favicon.ico",
+        "globals.css",
+        "layout.js",
+        "page.js"
+      ]
+    },
+    "components": {
+      "path": "components",
+      "purpose": "UI components",
+      "fileCount": 0,
+      "lastAccessed": 1784792806285,
+      "keyFiles": []
+    },
+    "configs": {
+      "path": "configs",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1784792806305,
+      "keyFiles": [
+        "AiModel.jsx"
+      ]
+    },
+    "context": {
+      "path": "context",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1784792806313,
+      "keyFiles": [
+        "MessagesContext.js"
+      ]
+    },
+    "convex": {
+      "path": "convex",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1784792806314,
+      "keyFiles": [
+        "schema.js",
+        "workspace.js"
+      ]
+    },
+    "data": {
+      "path": "data",
+      "purpose": "Data files",
+      "fileCount": 2,
+      "lastAccessed": 1784792806314,
+      "keyFiles": [
+        "Lookup.jsx",
+        "Prompt.jsx"
+      ]
+    },
+    "lib": {
+      "path": "lib",
+      "purpose": "Library code",
+      "fileCount": 1,
+      "lastAccessed": 1784792806315,
+      "keyFiles": [
+        "utils.js"
+      ]
+    },
+    "public": {
+      "path": "public",
+      "purpose": "Public files",
+      "fileCount": 5,
+      "lastAccessed": 1784792806315,
+      "keyFiles": [
+        "file.svg",
+        "globe.svg",
+        "next.svg",
+        "vercel.svg",
+        "window.svg"
+      ]
+    },
+    "app/api": {
+      "path": "app/api",
+      "purpose": "API routes",
+      "fileCount": 0,
+      "lastAccessed": 1784792806316,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "README.md",
+      "accessCount": 11,
+      "lastAccessed": 1784793167943,
+      "type": "file"
+    },
+    {
+      "path": "app/api/gen-ai-code/route.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1784793103904,
+      "type": "file"
+    },
+    {
+      "path": "app/api/ai-chat/route.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1784793104932,
+      "type": "file"
+    },
+    {
+      "path": "app/api/enhance-prompt/route.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1784793108160,
+      "type": "file"
+    },
+    {
+      "path": "app/ConvexClientProvider.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1784793561508,
+      "type": "file"
+    },
+    {
+      "path": "configs/AiModel.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1784792853300,
+      "type": "file"
+    },
+    {
+      "path": "app/layout.js",
+      "accessCount": 1,
+      "lastAccessed": 1784793555526,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

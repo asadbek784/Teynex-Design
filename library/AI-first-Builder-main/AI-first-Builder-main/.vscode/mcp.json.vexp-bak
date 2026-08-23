@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "vexp": {
+      "type": "stdio",
+      "command": "/usr/local/bin/node",
+      "args": [
+        "/Users/sampathalakanti/.vscode/extensions/vexp.vexp-vscode-2.2.2-darwin-arm64/dist/mcp-server.cjs"
+      ],
+      "env": {
+        "VEXP_WORKSPACE": "/Users/sampathalakanti/Documents/GitHub/AI-first-Builder"
+      }
+    }
+  }
+}
