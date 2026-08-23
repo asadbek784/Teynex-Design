@@ -1,0 +1,14 @@
+{
+  "name": "teynex-design-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "echo 'Serverless functions only - no server to start'",
+    "dev": "echo 'Use vercel dev for local development'"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
