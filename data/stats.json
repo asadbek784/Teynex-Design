@@ -1,0 +1,14 @@
+{
+  "source_archives": 5,
+  "total_files": 6335,
+  "total_bytes": 92884976,
+  "unique_sha256": 5888,
+  "exact_duplicate_files": 447,
+  "repositories": {
+    "openpage-master": 85,
+    "AI-first-Builder-main": 53,
+    "shadcndashboard-main": 398,
+    "shadcn-ui-blocks-main": 43,
+    "ui-main": 5756
+  }
+}
